@@ -224,7 +224,7 @@
                             $lid = $this -> objsm ->insertRecord($candidatestbl);
                             if($lid>0){
                                 //send email to nulosoft
-                                $email_send = new phpmailer_class();
+                                $email_send = new phpmailer_class();                                
                                 $user_email = 'developer@nulosoft.com.au';
                                 
                                 $message = '<h2>New Candidate Details</h2>';
