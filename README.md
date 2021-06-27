@@ -1,6 +1,6 @@
 # Setup Instructions
 
-1) Download project folder and place it on your server.
+1) Get script from https://github.com/Tinusha97/candidate.git and place it on your server.
 2) Download database sql file.
 3) Create a database called "candidatesdb" and import downloaded sql file.
 4) Change config folder according to your server.
